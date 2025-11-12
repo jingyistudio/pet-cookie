@@ -1,0 +1,11 @@
+{
+  "name": "pet-cookie-trace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "sharp": "^0.33.2",
+    "potrace": "^2.1.0"
+  }
+}
